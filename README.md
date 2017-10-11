@@ -1,1 +1,1 @@
-# TeenTechPazsit
+# TechTaborPazsit
